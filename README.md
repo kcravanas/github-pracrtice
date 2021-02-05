@@ -1,2 +1,2 @@
-# github-pracrtice
+# github-practice
 Practice github
